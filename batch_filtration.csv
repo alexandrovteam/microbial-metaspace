@@ -1,0 +1,18 @@
+SEP=,
+folder,subfolder,type,genus,species,filter,dataset_id,fdr
+Bacillus subtilis BGA,by_genus,Bacterium,Bacillus,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Bacillus subtilis BGA,by_species,Bacterium,Bacillus,subtilis,substring_search,2020-01-07_11h15m21s,0.5
+Pseudomonas putida,by_genus,Bacterium,Pseudomonas,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Pseudomonas putida,by_species,Bacterium,Pseudomonas,putida,substring_search,2020-01-07_11h15m21s,0.5
+Pseudomonas savastanoi,by_genus,Bacterium,Pseudomonas,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Pseudomonas savastanoi,by_species,Bacterium,Pseudomonas,savastanoi,substring_search,2020-01-07_11h15m21s,0.5
+Rhodococcus erythropolis,by_genus,Bacterium,Rhodococcus,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Rhodococcus erythropolis,by_species,Bacterium,Rhodococcus,erythropolis,substring_search,2020-01-07_11h15m21s,0.5
+Rhodococcus opacus,by_genus,Bacterium,Rhodococcus,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Rhodococcus opacus,by_species,Bacterium,Rhodococcus,opacus,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces coelicolor,by_genus,Bacterium,Streptomyces,no_filter,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces coelicolor,by_species,Bacterium,Streptomyces,coelicolor,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces griseus subsp griseus,by_species,Bacterium,Streptomyces,griseus,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces lividans,by_species,Bacterium,Streptomyces,lividans,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces mobaraensis,by_species,Bacterium,Streptomyces,mobaraensis,substring_search,2020-01-07_11h15m21s,0.5
+Streptomyces roseolilacinus,by_species,Bacterium,Streptomyces,roseolilacinus,substring_search,2020-01-07_11h15m21s,0.5
